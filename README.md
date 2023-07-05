@@ -1,10 +1,10 @@
-# semaforo_andrademoreno
+### semaforo_andrademoreno
 
-Integrantes:
+#Integrantes:
 
-Luis Andrade
+##Luis Andrade
 
-Josué Moreno
+##Josué Moreno
 
 Dentro de la carpeta src se puede encontrar el archivo main, en donde simplemente se realiza la declaración de los componentes a utilizar.
 
